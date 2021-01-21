@@ -1,0 +1,87 @@
+html, body{
+    margin: 0;
+    background: #999999;
+}
+#Imagem_Fundo {
+    background: url("Fundo.jpg");
+    width: 1414px;
+    height: 1041px;
+    left: 0px;
+    top: 0px;
+    margin-top: 0%;
+}
+#texto  {
+    text-align: center;
+    color: white;
+    font-family: Rokkitt;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+
+}
+
+#Titulo {
+    text-align: center;
+    color: white;
+    padding-top: 30%;
+    font-family: Rokkitt;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+text-align: center;
+}
+
+#acao {
+    text-align: center;
+    color: white;
+    font-family: Rokkitt;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 41px;
+    text-align: center;
+
+}
+#acao1 {
+    color: white;
+    border: 1px white solid;
+    padding:  10px 10px 10px 10px;
+  
+}
+
+h3 {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 84px;
+    text-align: center;
+    color: #690670;
+}
+
+p{
+    font-family: Tienne;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+}
+section{
+    padding: 20%;
+    float: left;
+}
+#tudo{
+    background: #EEEEEE;
+box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2), 0px 2px 24px rgba(0, 0, 0, 0.14);
+border-radius: 30px;
+}
+
+.coluna {
+    float: left;
+    padding: 0% 5%;
+    position: relative;
+    width: 40%;
+}
